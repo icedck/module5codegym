@@ -1,0 +1,9 @@
+#Clock-style {
+  font-size: 48px;
+  font-weight: bold;
+  color: #fff;
+  background: linear-gradient(to right, #ff0066, #ff6600);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
