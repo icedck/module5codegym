@@ -38,7 +38,9 @@ export default function App() {
           ))}
         </select>
       </label>
-      <h2>Selected Car: {selectedCar} Color: {selectedColor}</h2>
+      <h2>
+        Selected Car: {selectedCar} Color: {selectedColor}
+      </h2>
     </div>
   );
 }

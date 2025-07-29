@@ -1,0 +1,48 @@
+{
+  "countries": [
+    {
+      "Country": "Viet Nam",
+      "CountryCode": "",
+      "Province": "",
+      "City": "",
+      "CityCode": "",
+      "Lat": "0",
+      "Lon": "0",
+      "Confirmed": 0,
+      "Deaths": 0,
+      "Recovered": 3,
+      "Active": 4,
+      "Date": "2020-01-22T00:00:00Z"
+    },
+
+    {
+      "Country": "Viet Nam",
+      "CountryCode": "",
+      "Province": "",
+      "City": "",
+      "CityCode": "",
+      "Lat": "0",
+      "Lon": "0",
+      "Confirmed": 2,
+      "Deaths": 1,
+      "Recovered": 0,
+      "Active": 0,
+      "Date": "2020-01-23T00:00:00Z"
+    },
+
+    {
+      "Country": "Viet Nam",
+      "CountryCode": "",
+      "Province": "",
+      "City": "",
+      "CityCode": "",
+      "Lat": "0",
+      "Lon": "0",
+      "Confirmed": 3,
+      "Deaths": 0,
+      "Recovered": 2,
+      "Active": 0,
+      "Date": "2020-01-24T00:00:00Z"
+    }
+  ]
+}
